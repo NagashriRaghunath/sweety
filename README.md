@@ -17,7 +17,7 @@ A small web app where a diabetes patient records up to 4 blood glucose readings 
 
 ## 1. Install
 ```bash
-git clone <repo-url>
+git clone https://github.com/NagashriRaghunath/sweety.git
 cd sweety
 cd server && npm install
 cd ../client && npm install
